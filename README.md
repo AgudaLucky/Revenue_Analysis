@@ -25,9 +25,15 @@ An exploratory data analysis (EDA) was conducted to understand the dataset and u
 
 2015
 1. The largest revenue decline across both years occurred between March and April 2015, with revenue dropping from 4,300,901,520 to 4,045,247,520 (-5.94%). This decline coincided with a decrease in units sold from 46,656 to 45,175 and a reduction in average selling price from approximately 92,183 to 89,546. The drop in revenue was driven by declines in both sales volume and pricing.
-2. Prior to this decline, revenue reached its highest level in March 2015, increasing from 4,017,994,560 to 4,300,901,520 (+7.04%). During the same period, units sold increased significantly from 43,738 to 46,656, while the average selling price rose slightly from 91,865 to 92,183. This suggests that strong revenue growth was largely driven by increased sales volume, with pricing providing additional support.
+2. Prior to this decline, revenue reached its highest level in March 2015, increasing from 4,017,994,560 to 4,300,901,520 (+7.04%). During the same period, units sold increased significantly from 43,738 to 46,656, while the average selling price rose slightly from 91,865 to 92,183. This suggests that strong revenue growth was largely driven by increased sales volume, with pricing providing additional support. <br>
 
-
+# Recommendations 
+**Optimization of Pricing pattern to protect revenue** 
+- Review and refine the organization's pricing strategy to avoid excessive price reductions as a primary means of driving sales. The analysis indicates that while lower prices often increased sales volume, they did not consistently result in higher revenue. A balanced pricing approach should be adopted to maximize both profitability and revenue growth.<br>
+**Revenue Growth strategy dependency**
+  - Focus on identifying and replicating the business strategies that successfully improved both sales volume and revenue. The analysis shows that the strongest revenue performance occurred when increases in sales volume were supported by stable or higher average selling prices. Future growth initiatives should therefore prioritize sustainable revenue generation over volume growth alone. <br>
+# Conclusion 
+The analysis identified key patterns associated with revenue, including its growth and decline over time. While a more extensive analysis of revenue performance by line of business, region, and market is provided in the accompanying Excel workbook, the key findings highlight that upward revenue growth and increased unit sales are driven primarily by a reasonably high or stable average price per unit sold, rather than a dependency on excessive reductions in average selling prices.
 
 
 
