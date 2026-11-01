@@ -1,4 +1,11 @@
 # Revenue_Analysis
+<h3 align="center">📊 Featured Data Analytics Project</h3>
+
+<p align="center">
+  <img src="Revenue.png"
+       alt="Sales Analytics Dashboard"
+       width="100%">
+</p>
 This analysis examines the organization's annual revenue trend and evaluates revenue performance across regions, providing insights into overall business performance and identifying the regions that contribute most to revenue generation. <br>
 
 # Project Objectives 
